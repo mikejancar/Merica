@@ -8,3 +8,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [1.0.0] - 2017-08-25
 ### Added
 - Token customizations set for keywords, types, functions, strings and other more specific textMateRules
+
+## [1.0.1] - 2017-08-25
+### Added
+- Icon for VS Code Marketplace

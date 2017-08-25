@@ -2,7 +2,8 @@
     "name": "Merica",
     "displayName": "Merica",
     "description": "A patriotic color theme for VS Code",
-    "version": "1.0.0",
+    "icon": "images/icon.png",
+    "version": "1.0.1",
     "publisher": "mikejancar",
     "engines": {
         "vscode": "^1.15.0"
