@@ -1,0 +1,10 @@
+# Change Log
+All notable changes to the "Merica" extension will be documented in this file.
+
+Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+
+## [Unreleased]
+
+## [1.0.0] - 2017-08-25
+### Added
+- Token customizations set for keywords, types, functions, strings and other more specific textMateRules
