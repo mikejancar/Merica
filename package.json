@@ -5,6 +5,10 @@
     "icon": "images/icon.png",
     "version": "1.0.2",
     "publisher": "mikejancar",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mikejancar/Merica.git"
+    },
     "engines": {
         "vscode": "^1.15.0"
     },
