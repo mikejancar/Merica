@@ -7,6 +7,6 @@ When I took a look at it, it seemed that the name 'Merica fit.
 
 ## Screenshots
 ### Typescript
-![Typescript Example](images/typescript-example.png)
+![Typescript Example](./images/typescript-example.png)
 ### HTML
-![HTML Example](images/html-example.png)
+![HTML Example](./images/html-example.png)
