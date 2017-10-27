@@ -19,4 +19,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [1.0.3] - 2017-10-26
 ### Modified
-- Replaced the yellows with reds and blues
+- Tweaked some colors
