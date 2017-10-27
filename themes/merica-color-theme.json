@@ -21,7 +21,7 @@
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#D7FF5F"
+				"foreground": "#ffbebe"
 			}
 		},
 		{
@@ -120,7 +120,7 @@
 			"name": "Function argument",
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#FFFF29"
+				"foreground": "#aae3fd"
 			}
 		},
 		{

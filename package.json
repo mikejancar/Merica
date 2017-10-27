@@ -3,7 +3,7 @@
     "displayName": "Merica",
     "description": "A patriotic color theme for VS Code",
     "icon": "images/icon.png",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "mikejancar",
     "repository": {
         "type": "git",
