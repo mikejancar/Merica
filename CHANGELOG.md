@@ -20,3 +20,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [1.0.3] - 2017-10-26
 ### Modified
 - Tweaked some colors
+
+## [1.0.4] - 2019-04-07
+### Modified
+- Deyellowed some things
