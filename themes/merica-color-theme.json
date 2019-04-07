@@ -21,7 +21,7 @@
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#fffcb3"
+				"foreground": "#ddd9b8"
 			}
 		},
 		{
@@ -42,7 +42,7 @@
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#FFD427"
+				"foreground": "#ddd9b8"
 			}
 		},
 		{
@@ -120,7 +120,7 @@
 			"name": "Function argument",
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#aae3fd"
+				"foreground": "#9de3ff"
 			}
 		},
 		{
@@ -400,7 +400,7 @@
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#F5F99D"
+				"foreground": "#ddd9b8"
 			}
 		},
 		{
@@ -512,7 +512,7 @@
 				"variable.parameter"
 			],
 			"settings": {
-				"foreground": "#FFFF29"
+				"foreground": "#9de3ff"
 			}
 		}
 	]
